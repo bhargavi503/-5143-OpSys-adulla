@@ -1,0 +1,3 @@
+#!/bin/bash
+current_date=$(date +"%Y_%m_%d")
+echo "file2_$current_date"
